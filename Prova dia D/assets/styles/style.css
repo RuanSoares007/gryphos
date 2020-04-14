@@ -1,0 +1,68 @@
+body{
+    background-repeat: no-repeat;
+    background-image:url("/assets/images/bg-curvy-desktop.svg"); 
+    background-color: #1B2330;
+    background-size: cover;
+    font-family: 'Baloo Paaji 2', cursive;
+    background-position-y:45vw ;
+}
+ul li{
+    display: inline-block;
+    color: white;
+    
+}
+
+.menu  li{
+    float: right;
+    margin-right: 20px;
+    margin-top: 65px;
+    font-size: 20px;
+    padding-right: 15px
+    ;
+}
+.logo{
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.img1{
+    margin-left: 550px;
+    padding-top: 15vw;
+    position: absolute;
+    
+}
+.img1 h1{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.img1 h2{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+.img1 button{
+    background-color: #3CB2CC; 
+    width: 300px;
+    height: 50px;  
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border:0px;
+    color: white;
+    margin-left: 22vh;
+    margin-top: 30px;
+}
+.back{
+    width: 99vw;
+    height:400px ;
+    background-color:#181E2A;
+    position: absolute;
+    margin-top: 76%;
+}
